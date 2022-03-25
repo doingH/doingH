@@ -1,4 +1,4 @@
-### <div align="center"> BACK-END 개발자로 일하고 있습니다.</div>  
+### <div align="center"> BACK-END </div>  
   
 
 - 🌱 현재  JPA, MongoDB, REDIS, AWS에 관심이 있습니다.  
