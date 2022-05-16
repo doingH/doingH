@@ -1,7 +1,7 @@
 ### <div align="center"> BACK-END </div>  
   
 
-- 🌱 현재  JPA, MongoDB, REDIS, AWS에 관심이 있습니다.  
+- 🌱 현재  JPA, MongoDB, AWS에 관심이 있습니다.  
   
 
 <br/>  
